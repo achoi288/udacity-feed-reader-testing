@@ -126,6 +126,7 @@ $(function () {
                 loadFeed(2, function () {
                     done();
                 });
+            });
         });
 
         it('changes content', function () {
